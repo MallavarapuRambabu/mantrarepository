@@ -1,0 +1,39 @@
+.App{
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+}
+label{
+  margin:10px;
+}
+button{
+  width: 100px;
+  height: 30px;
+}
+input{
+  width: 150px;
+  height: 30px;
+}
+
+
+
+/*  */
+h1{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.main{
+  width: 100%;
+  height: auto;
+}
+.displyData{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
